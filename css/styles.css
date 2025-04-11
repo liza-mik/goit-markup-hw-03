@@ -153,7 +153,6 @@ h6 {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  -o-object-fit: ;
 }
 
 .hero-button:hover,
@@ -166,7 +165,8 @@ h6 {
 /* ---------------SOLUTIONS-------------- */
 
 .solutions {
-  padding: 120px 0;
+  padding-top: 120px;
+  padding-bottom: 120px;
 }
 
 .solutions-list {
