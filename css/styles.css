@@ -165,8 +165,7 @@ h6 {
 /* ---------------SOLUTIONS-------------- */
 
 .solutions {
-  padding-top: 120px;
-  padding-bottom: 120px;
+  padding: 120px 0;
 }
 
 .solutions-list {
