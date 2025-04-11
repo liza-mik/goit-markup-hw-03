@@ -165,6 +165,11 @@ h6 {
 
 /* ---------------SOLUTIONS-------------- */
 
+.solutions {
+  padding-top: 120px;
+  padding-bottom: 120px;
+}
+
 .solutions-list {
   display: flex;
   gap: 24px;
@@ -172,8 +177,6 @@ h6 {
 
 .solutions-item {
   flex-basis: calc((100% - 72px) / 4);
-  padding-top: 120px;
-  padding-bottom: 120px;
 }
 
 .solutions-subtitle {
