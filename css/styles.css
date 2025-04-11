@@ -17,6 +17,8 @@ a {
 
 img {
   display: block;
+  max-width: 100%;
+  height: auto;
 }
 
 .container {
@@ -68,6 +70,7 @@ h6 {
 
 .header-nav {
   display: flex;
+  align-items: center;
 }
 
 .nav-list {
