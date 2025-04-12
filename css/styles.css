@@ -135,9 +135,9 @@ h6 {
   color: #fff;
   max-width: 496px;
   margin: 0 auto;
-  padding-top: 188px;
-  padding-bottom: 48px;
+  margin-bottom: 48px;
 }
+
 .hero-button {
   font-weight: 500;
   font-size: 16px;
@@ -246,6 +246,7 @@ h6 {
 .team-item {
   background-color: #fff;
   border-radius: 0px 0px 4px 4px;
+  flex-basis: calc((100% - 72px) / 4);
 }
 
 .team-subtitle {
